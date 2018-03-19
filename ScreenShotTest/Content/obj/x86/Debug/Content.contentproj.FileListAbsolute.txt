@@ -1,0 +1,11 @@
+D:\Steven\XNA\Testing\ScreenShotTest\ScreenShotTest\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Steven\XNA\Testing\ScreenShotTest_Emulogic\ScreenShotTest\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Steven\XNA\Testing\SCREEN_SHOT\ScreenShotTest_Emulogic\ScreenShotTest\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Steven\XNA\Testing\SCREEN_SHOT3\ScreenShotTest_Emulogic\ScreenShotTest\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Steven\XNA\Testing\SCREEN_SHOT3\ScreenShotTest02_Akbar\ScreenShotTest\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Steven\XNA\Testing\SCREEN_SHOT3\ScreenShotTest03_Title\ScreenShotTest\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Steven\XNA\Testing\SCREEN_SHOT3\ScreenShotTest07_SelectSprite\ScreenShotTest\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Steven\XNA\Testing\SCREEN_SHOT3\ScreenShotTest08_ScreenDumps\ScreenShotTest\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Steven\XNA\Testing\SCREEN_SHOT3\ScreenShotTest08_ScreenDumps\ScreenShotTest\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\stevepro\XNA\Testing\SCREEN_SHOT3\ScreenShotTest08_ScreenDumps\ScreenShotTest\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\stevepro\XNA\Testing\SCREEN_SHOT3\ScreenShotTest09_ScreenDumpsPAGE\ScreenShotTest\Content\obj\x86\Debug\ResolveAssemblyReference.cache
