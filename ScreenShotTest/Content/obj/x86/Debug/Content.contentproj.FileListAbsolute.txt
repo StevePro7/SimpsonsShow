@@ -9,3 +9,4 @@ E:\Steven\XNA\Testing\SCREEN_SHOT3\ScreenShotTest08_ScreenDumps\ScreenShotTest\C
 C:\Steven\XNA\Testing\SCREEN_SHOT3\ScreenShotTest08_ScreenDumps\ScreenShotTest\Content\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\stevepro\XNA\Testing\SCREEN_SHOT3\ScreenShotTest08_ScreenDumps\ScreenShotTest\Content\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\stevepro\XNA\Testing\SCREEN_SHOT3\ScreenShotTest09_ScreenDumpsPAGE\ScreenShotTest\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\GitHub\StevePro7\SimpsonsShow\ScreenShotTest\Content\obj\x86\Debug\ResolveAssemblyReference.cache

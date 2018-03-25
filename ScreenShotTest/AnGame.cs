@@ -31,7 +31,7 @@ namespace ScreenShotTest
 
 		int xx = 2;int qy = 5;
 		int oay = 9; int oby = 13; int ocy = 17; int ody = 21;
-		int quiz = -1;
+		//int quiz = -1;
 		string path = "";
 		public AnGame()
 		{
@@ -56,7 +56,7 @@ namespace ScreenShotTest
 			}
 			if (null != ConfigurationManager.AppSettings["quiz"])
 			{
-				quiz = Convert.ToInt32(ConfigurationManager.AppSettings["quiz"]);
+				//quiz = Convert.ToInt32(ConfigurationManager.AppSettings["quiz"]);
 			}
 			path = ConfigurationManager.AppSettings["path"];
 
@@ -200,8 +200,12 @@ namespace ScreenShotTest
 
 			//string line = "WHO OWNS THE KWIK E MART?;GIL;SANJAY;APU;ABE";
 			string[] texts = line.Split(new char[] {';'});
-			string quiz = texts[0];
-			string optA = texts[1]; string optB = texts[2]; string optC = texts[3]; string optD = texts[4];
+			string answ = texts[0];
+			string quiz = texts[1];
+			string optA = texts[2];
+			string optB = texts[3];
+			string optC = texts[4];
+			string optD = texts[5];
 
 			//for (int i = 0; i < 24; i++)
 			//{
@@ -226,6 +230,15 @@ namespace ScreenShotTest
 			Draw(optB, xx + 2, oby);
 			Draw(optC, xx + 2, ocy);
 			Draw(optD, xx + 2, ody);
+
+			// Draw answer
+			if ("0" != answ)
+			{
+				if ("1" == answ)
+				{
+					Draw("A.", xx-1, oay); 
+				}
+			}
 
 			spriteBatch.End();
 		}
