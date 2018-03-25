@@ -236,7 +236,19 @@ namespace ScreenShotTest
 			{
 				if ("1" == answ)
 				{
-					Draw("A.", xx-1, oay); 
+					Draw(">", xx-1, oay); 
+				}
+				if ("2" == answ)
+				{
+					Draw(">", xx - 1, oby);
+				}
+				if ("3" == answ)
+				{
+					Draw(">", xx - 1, ocy);
+				}
+				if ("4" == answ)
+				{
+					Draw(">", xx - 1, ody);
 				}
 			}
 

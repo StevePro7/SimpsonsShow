@@ -1,0 +1,6 @@
+Content\EmulogicBIG.xnb
+Content\EmulogicMED.xnb
+Content\EmulogicSML.xnb
+Content\SimpsonsBIG.xnb
+Content\SimpsonsMED.xnb
+Content\SimpsonsSML.xnb
