@@ -111,7 +111,7 @@ namespace ScreenShotTest
 		/// <param name="gameTime">Provides a snapshot of timing values.</param>
 		protected override void Draw(GameTime gameTime)
 		{
-			string inputFile = "inp/" + path + "/*.csv";
+			string inputFile = "inp/*.csv";
 			string[] files = Directory.GetFiles(".", inputFile);
 
 			save = true;
@@ -119,9 +119,9 @@ namespace ScreenShotTest
 			{
 				foreach (string file in files)
 				{
-					string filename = file.Replace(".\\inp\\" + path + "\\", "");
+					string filename = file.Replace(".\\inp\\", "");
 					filename = filename.Replace(".csv", "");
-					string outDir = "out/" + path + "/" + filename;
+					string outDir = "out/" + filename;
 					if (!Directory.Exists(outDir))
 					{
 						Directory.CreateDirectory(outDir);
@@ -159,10 +159,10 @@ namespace ScreenShotTest
 			{
 				foreach (string file in files)
 				{
-					string filename = file.Replace(".\\inp\\" + path + "\\", "");
+					string filename = file.Replace(".\\inp\\", "");
 					filename = filename.Replace(".csv", "");
-					string outDir = "out/" + path + "/" + filename;
-					if(!Directory.Exists(outDir))
+					string outDir = "out/" + filename;
+					if (!Directory.Exists(outDir))
 					{
 						Directory.CreateDirectory(outDir);
 					}
