@@ -11,3 +11,16 @@ E:\GitHub\StevePro7\SimpsonsShow\ScreenShotTest\obj\x86\Debug\ResolveAssemblyRef
 E:\GitHub\StevePro7\SimpsonsShow\ScreenShotTest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 E:\GitHub\StevePro7\SimpsonsShow\ScreenShotTest\obj\x86\Debug\ScreenShotTest.exe
 E:\GitHub\StevePro7\SimpsonsShow\ScreenShotTest\obj\x86\Debug\ScreenShotTest.pdb
+C:\GithubX\StevePro7\SimpsonsShow\ScreenShotTest\bin\x86\Debug\Content\SimpsonsBIG.xnb
+C:\GithubX\StevePro7\SimpsonsShow\ScreenShotTest\bin\x86\Debug\Content\EmulogicBIG.xnb
+C:\GithubX\StevePro7\SimpsonsShow\ScreenShotTest\bin\x86\Debug\Content\SimpsonsMED.xnb
+C:\GithubX\StevePro7\SimpsonsShow\ScreenShotTest\bin\x86\Debug\Content\EmulogicMED.xnb
+C:\GithubX\StevePro7\SimpsonsShow\ScreenShotTest\bin\x86\Debug\Content\SimpsonsSML.xnb
+C:\GithubX\StevePro7\SimpsonsShow\ScreenShotTest\bin\x86\Debug\Content\EmulogicSML.xnb
+C:\GithubX\StevePro7\SimpsonsShow\ScreenShotTest\bin\x86\Debug\ScreenShotTest.exe.config
+C:\GithubX\StevePro7\SimpsonsShow\ScreenShotTest\bin\x86\Debug\ScreenShotTest.exe
+C:\GithubX\StevePro7\SimpsonsShow\ScreenShotTest\bin\x86\Debug\ScreenShotTest.pdb
+C:\GithubX\StevePro7\SimpsonsShow\ScreenShotTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\GithubX\StevePro7\SimpsonsShow\ScreenShotTest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\GithubX\StevePro7\SimpsonsShow\ScreenShotTest\obj\x86\Debug\ScreenShotTest.exe
+C:\GithubX\StevePro7\SimpsonsShow\ScreenShotTest\obj\x86\Debug\ScreenShotTest.pdb
