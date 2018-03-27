@@ -148,7 +148,7 @@ namespace ScreenShotTest
 						//resolvedTexture.Save("test.bmp", ImageFileFormat.Bmp);
 
 						string bob = (idx + 1).ToString().PadLeft(3, '0');
-						string outputFile = System.String.Format("{0}/{1}.png", outDir, bob);
+						string outputFile = System.String.Format("{0}/{1}_{2}.png", outDir, filename, bob);
 						resolvedTexture.Save(outputFile, ImageFileFormat.Png);
 					}
 				}
